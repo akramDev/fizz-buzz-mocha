@@ -1,0 +1,22 @@
+{
+  "name": "fizz-buzz-mocha",
+  "version": "1.0.0",
+  "description": "fizzbuzz kata with mocha as test runner, chaiJS for assertion  and cofee script",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akramDev/fizz-buzz-mocha.git"
+  },
+  "author": "akram moncer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akramDev/fizz-buzz-mocha/issues"
+  },
+  "homepage": "https://github.com/akramDev/fizz-buzz-mocha#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
